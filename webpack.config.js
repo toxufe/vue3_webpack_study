@@ -65,7 +65,7 @@ const config = {
         open: true,
     },
     externals: {
-        // vue: "Vue" //CDN 引入
+        vue: "Vue" //CDN 引入
     },
 }
  
